@@ -1,7 +1,7 @@
 # Blender 4.5.11 LTS
 # www.blender.org
 mtllib COREPHYS.mtl
-o Phys
+o model
 v 0.444626 0.989178 -0.989178
 v 0.989178 1.597387 0.641875
 v 0.444626 -0.989178 -0.989178
